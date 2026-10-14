@@ -110,21 +110,6 @@ Jika semua Attacker, mereka datang dari arah yang sama dan menumpuk di depan Pla
 | 5. Decision Interval 0,1 / 0,35 / 1 / 2 | Ubah `Decision Interval` pada `EnemyTacticalAI`; makin besar makin lambat bereaksi. |
 | 6. Semua Attacker | Ubah `Role` ketiga Enemy menjadi `Attacker`; mereka menumpuk dari arah yang sama. |
 
-## Hasil Pengujian (isi saat demo)
-
-| Uji | Hasil |
-|---|---|
-| Player Controller bergerak (WASD) | ☐ |
-| Perception: Player di depan terlihat, di belakang tidak | ☐ |
-| Obstacle: Player di balik Wall tidak terlihat | ☐ |
-| Memory: last known position tersimpan setelah Player disembunyikan | ☐ |
-| Squad Alert: satu Enemy melihat → seluruh squad bereaksi | ☐ |
-| Attacker mendekat dari depan | ☐ |
-| Flanker bergerak ke sisi Player | ☐ |
-| Cover Shooter memilih dan mereservasi cover | ☐ |
-| Dua Cover Shooter tidak memilih cover yang sama | ☐ |
-| Search ke last known position, lalu Calm dan kembali ke pos jaga | ☐ |
-| Decision interval diterapkan (state tidak berkedip) | ☐ |
 
 ## Checklist Implementasi
 
