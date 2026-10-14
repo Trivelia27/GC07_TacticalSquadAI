@@ -1,8 +1,10 @@
 # Praktikum 7 — Squad Tactical Enemy AI
 
-**Kelompok:** _(isi identitas kelompok)_
-**Anggota:** _(isi nama & NRP seluruh anggota)_
-**Link video demo:** _(isi link)_
+**Nama Kelompok:** **Choom** 
+**Anggota:** 
+- Triana Velia Hutabalian (5025231190)
+- Lailatul Annisa Fitriana (5025231202)
+- Rafaela Shyra Ashma' Ramadhani (5025231217)
 
 Project: `GC07_TacticalSquadAI` · Scene: `Assets/Scenes/Praktikum07.unity` · Unity 6000.0.83f1
 
