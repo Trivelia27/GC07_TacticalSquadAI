@@ -1,6 +1,7 @@
 # Praktikum 7 — Squad Tactical Enemy AI
 
 **Nama Kelompok:** **Choom** 
+
 **Anggota:** 
 - Triana Velia Hutabalian (5025231190)
 - Lailatul Annisa Fitriana (5025231202)
